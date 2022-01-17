@@ -1,0 +1,13 @@
+.main-container{
+    width: 50%;
+    margin-left: 25%;
+}
+.texto-relleno{
+    opacity: 0;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+}
